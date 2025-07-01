@@ -47,8 +47,8 @@ Here --> [Weather App](https://suvadip-sana.github.io/new_weather_app/)
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-1. Linkd In - [Suvadip Sana](https://www.linkedin.com/in/suvadip-sana-b07a14243/)
-2. Mail me - suvadipsana602@gmail.com
+1. Linkd In - [Suvadip Sana](https://www.linkedin.com/in/adityasharma2702/)
+2. Mail me - adityasharma.cs26@gmail.com
 
 ## Acknowledgements
 [OpenWeather API](https://openweathermap.org/api)
